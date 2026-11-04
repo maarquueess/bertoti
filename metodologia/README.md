@@ -31,7 +31,7 @@ Refatorei a lógica de interatividade dos Dashboards gerenciais aplicando o conc
 
 ## Hard Skills
 
-### O que desenvolvi (com autonomia)
+### O que desenvolvi (sei fazer com ajuda)
 - **Java / Spring Boot:** Criação de endpoints REST, injeção de dependências e mapeamento de DTOs para comunicação eficiente entre front e back.
 - **SQL / MySQL:** Criação de *Native Queries* customizadas focadas em performance e baixo acoplamento para relatórios e históricos.
 - **JavaScript Vanilla:** Manipulação avançada de DOM, requisições assíncronas (Fetch API), gerenciamento de estado em memória (cache) e filtros dinâmicos *client-side*.
